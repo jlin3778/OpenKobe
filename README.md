@@ -3,7 +3,7 @@
 👑 Greetings, Underlings!
 
 Welcome to **OpenKobe**, the digital embodiment of Kobe Bryant – the legendary NBA player. OpenKobe will motivate you and push you to your limits in whatever it is that you are doing. Imagine working out while Kobe is talking in your ear!
-## About OpenRegina
+## About OpenKobe
 
 OpenKobe isn't your average mentor or workout buddy; it's an AI-powered mentor with the personality of the iconic Kobe Bryant. With an unmatched level of determination. He will make sure that you are not going easy or setting goals that are too easy to achieve. He wants you to be the best version of yourself and embody the Mamba mentality.
 
