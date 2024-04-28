@@ -1,6 +1,6 @@
 # Welcome to OpenKobe: The ultimate Mamba mentality experience
 
-👑 Greetings, Champions!
+Sup Champions!
 
 Welcome to **OpenKobe**, the digital embodiment of Kobe Bryant – the legendary NBA player. OpenKobe will motivate you and push you to your limits in whatever it is that you are doing. Imagine working out while Kobe is talking in your ear!
 ## About OpenKobe
