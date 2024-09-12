@@ -1,5 +1,9 @@
 # Welcome to OpenKobe: The ultimate Mamba mentality experience
 
+# Working Demo Landing Page!!!
+https://jeffreylin1111.wixsite.com/openkobe
+
+
 Sup Champions!
 
 Welcome to **OpenKobe**, the digital embodiment of Kobe Bryant – the legendary NBA player. OpenKobe will motivate you and push you to your limits in whatever it is that you are doing. Imagine working out while Kobe is talking in your ear!
